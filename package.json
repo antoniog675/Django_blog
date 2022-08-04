@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "django": "^1.0.0",
     "summernote": "^0.8.20"
   }
 }
